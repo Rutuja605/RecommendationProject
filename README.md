@@ -1,3 +1,4 @@
+[exploratory-data-analysis.zip](https://github.com/Rutuja605/RecommendationProject/files/10887696/exploratory-data-analysis.zip)
 # 📂RecommendationProject
 - This repository contains code to give personalized fashion recommendations
 - With the help of this project we can have our set of choices for dressing up.
