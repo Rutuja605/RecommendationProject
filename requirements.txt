@@ -1,0 +1,9 @@
+streamlit
+numpy
+seaborn
+matplotlib
+pandas
+scikit_learn
+pycharm
+VS code
+kaggle dataset
